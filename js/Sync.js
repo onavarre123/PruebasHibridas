@@ -2,8 +2,8 @@
 *Sync.JS 
 *Manejo de Sincronizacion de Base de datos
 */
-//var syncServer = 'http://186.5.36.149:94/SyncVentas/';
-var syncServer = 'http://192.168.2.8:94/SyncVentas/';
+var syncServer = 'http://186.5.36.149:94/SyncVentas/';
+//var syncServer = 'http://192.168.2.8:94/SyncVentas/';
 var PROJECT_ID_GOOGLE = "994360885610";
 //var PROJECT_ID_GOOGLE = "580149474786"
 var admPass = "sa";
